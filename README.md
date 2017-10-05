@@ -3,11 +3,11 @@ Config file for zsh
 
 ## Installation
 
-``bash
+```bash
 cd ~
 git clone http://github.com/supm4n/zshrc.git 
 ln -s zshrc/.zshrc .zshrc
-``
+```
 
 ## License
 
